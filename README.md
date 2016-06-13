@@ -12,7 +12,7 @@ android 4.0/ api is the minimal api required to run the app. The app should run 
 
 #Как использовать ?
 
-Скачать и утановить app-debug.apk файл. Использование очень простая. Всё написано на кнопкахю
+Скачать и утановить app-debug.apk файл. Использование очень простая. Всё написано на кнопках
 
 #How to use ?
 
