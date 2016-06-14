@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0d0638e38baf0f9cfefdfba0fe0fb855424f2213">
+        <dex dex="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3a7368366059bdd5b3a236f6dd0990eeab1ebc90.jar" />
+    </item>
+    <item
+        jar="C:\Users\TheLetch\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_c78ced76355c9bf9774eacd09520aac11e7c88b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\exploded-aar\com.vk\androidsdk\1.6.7\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9b6912e0c2ebe3f92d38f406501ec609a57ad3a7">
+        <dex dex="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\pre-dexed\debug\com.vk-androidsdk-1.6.7_51c42e2cc735300650b8fd158b4a3d0d41b6246e.jar" />
+    </item>
+    <item
+        jar="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_4b73e7414a94ad3b5474a746fa8cbd3e66ad7eee.jar" />
+    </item>
+    <item
+        jar="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_8f61e3d1661efb653799e82e7e843b3b5d625725.jar" />
+    </item>
+    <item
+        jar="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_66f0c49746f1f86f635f50e5fdd357a704735779.jar" />
+    </item>
+    <item
+        jar="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0e6ce5d4199ca725e36a0cd3487039360602bd8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_b908459a853aad4039c8a576f09caf62d6274a46.jar" />
+    </item>
+    <item
+        jar="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f25d83ca1cd81a23fde07e16b2a86e729b4f7c5">
+        <dex dex="C:\Users\TheLetch\Documents\MyVkFriendList\app\build\intermediates\pre-dexed\debug\instant-run_957a8ed6dc90d730cc0ea697e8776c0df169105b.jar" />
+    </item>
+
+</items>
