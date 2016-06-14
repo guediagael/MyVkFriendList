@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyVkFriendList</string>
+    <string name="clear_the_cache">Clear the cache</string>
+    <integer name="com_vk_sdk_AppId">5503228</integer>
+</resources>
